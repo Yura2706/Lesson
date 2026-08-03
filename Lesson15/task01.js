@@ -46,20 +46,3 @@ console.log(product.name);
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

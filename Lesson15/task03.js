@@ -12,3 +12,4 @@ if (userPassword === correctPassword) {
 } else {
   console.log("Access denied");
 }
+
