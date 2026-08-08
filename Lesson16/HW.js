@@ -30,4 +30,3 @@ numbers1.splice(2,1,99);
 console.log(numbers1);
 
 console.log(numbers1.length);
-
