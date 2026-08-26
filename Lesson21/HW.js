@@ -53,4 +53,4 @@ function product(name, price, description) {
 const products = [product,product1, product2,];
 console.log(products);
 
-
+console.log("3 задание Не решено");
