@@ -54,5 +54,3 @@ const products = [product,product1, product2,];
 console.log(products);
 
 
-
-
